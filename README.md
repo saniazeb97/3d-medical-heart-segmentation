@@ -149,40 +149,5 @@ results/predictions/pred_vs_gt_augmented_*.png
 
 ```
 
----
 
-## 8. Metrics
-
-Metrics CSV:
-```
-results/baseline_metrics.csv
-results/augmented_metrics.csv
-```
-
-Columns:
-- Dice  
-- HD95  
-- Sensitivity  
-- Precision  
-
----
-
-## 9. Troubleshooting
-
-**Dataset errors:**
-Set correct path in config.py or use:
-```bash
-export DATA_ROOT=/content/heart_dataset
-```
-
----
-
-## 10. License
-MIT License.
-
----
-
-## 11. Notes
-- Fully compatible with local machines and Colab.
-- Metrics & visualizations saved in `results/`.
 
