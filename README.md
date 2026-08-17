@@ -1,4 +1,4 @@
-# 🫀 3D Heart Segmentation (UNet + Augmentations)
+# 3D Heart Segmentation (UNet + Augmentations)
 
 This repository contains a complete and reproducible pipeline for **3D medical image segmentation** using a **3D U-Net**, including:
 
