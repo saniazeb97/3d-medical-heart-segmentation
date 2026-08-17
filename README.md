@@ -19,7 +19,7 @@ The code works **locally**, **on Google Colab**, and **inside containers**.
 
 Clone:
 ```bash
-git clone https://github.com/<your-username>/heart-segmentation.git
+git clone https://github.com/saniazeb97/3D-Medical-Heart-Segmentation.git
 cd heart-segmentation
 ```
 
