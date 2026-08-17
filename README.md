@@ -19,8 +19,8 @@ The code works **locally**, **on Google Colab**, and **inside containers**.
 
 Clone:
 ```bash
-git clone https://github.com/saniazeb97/3D-Medical-Heart-Segmentation.git
-cd heart-segmentation
+git clone https://3d-medical-heart-segmentation/3d-medical-heart-segmentation.git
+cd 3d-medical-heart-segmentation
 ```
 
 Install:
@@ -33,8 +33,8 @@ pip install -r requirements.txt
 ### **Option B — Google Colab**
 
 ```python
-!git clone https://github.com/<your-username>/heart-segmentation.git
-%cd heart-segmentation
+!git clone https://3d-medical-heart-segmentation/3d-medical-heart-segmentation.git
+%cd 3d-medical-heart-segmentation
 !pip install -r requirements.txt
 ```
 
@@ -113,8 +113,6 @@ results/augmented_images/aug_examples_train.png
 results/predictions/pred_vs_gt_baseline_*.png
 results/predictions/pred_vs_gt_augmented_*.png
 ```
-
----
 
 ## 7. Repository Structure
 
